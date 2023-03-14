@@ -1,0 +1,16 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 413px;
+  height: 236px;
+  align-items: flex-start;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #d9d9d9;
+}

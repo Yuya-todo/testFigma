@@ -1,0 +1,23 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-start;
+  padding: 0 114px;
+  background-color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.rectangle1 {
+  position: absolute;
+  left: 54px;
+  top: 321px;
+  width: 1132px;
+  height: 543px;
+  align-items: flex-start;
+  outline: solid 1px #9747ff;
+  outline-offset: -1px;
+  outline-style: dashed;
+  border-radius: 5px;
+}
